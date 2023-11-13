@@ -1,6 +1,6 @@
 Darya Tonk
 tonk.darya@gmai.com
-QA Engeneer
+QA Engineer
 HTML, CSS, JavaScript + Cypress, Python + Selenium, Java, SQL, JQuery, Jira, Trello, Figma, Balsamiq, TestRail
 Northcentral Technical College 
 
